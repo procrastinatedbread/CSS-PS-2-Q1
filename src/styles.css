@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+.card {
+  width: 400px;
+  height: 500px;
+  text-align: center;
+  background-color: peachpuff;
+  border-radius: 10px;
+}
+img {
+  width: 100%;
+  height: 70%;
+  display: inline-block;
+  margin: auto;
+}
